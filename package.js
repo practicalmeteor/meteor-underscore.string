@@ -1,7 +1,7 @@
 Package.describe({
   name: "spacejamio:underscore.string",
-  summary: "Minimal lightweight logging library with output that preserves line numbers.",
-  version: "1.1.0_1",
+  summary: "String manipulation extensions for Underscore.js javascript library.",
+  version: "2.3.3_1",
   git: "https://github.com/spacejamio/underscore.string.git"
 });
 
