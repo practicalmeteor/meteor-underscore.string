@@ -1,6 +1,6 @@
 Package.describe({
   name: "spacejamio:underscore.string",
-  summary: "String manipulation extensions for Underscore.js javascript library.",
+  summary: "String manipulation extensions for underscore.",
   version: "2.3.3_1",
   git: "https://github.com/spacejamio/underscore.string.git"
 });
