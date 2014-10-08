@@ -9,7 +9,7 @@ Package.describe({
 Package.onUse(function (api) {
   api.versionsFrom('0.9.3');
 
-  api.use(['meteor', 'underscore']);
+  api.use('underscore', {weak: true});
 
   api.addFiles('lib/underscore.string.js');
 
