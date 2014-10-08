@@ -1,4 +1,4 @@
-# Underscore.string [![Build Status](https://secure.travis-ci.org/epeli/underscore.string.png?branch=master)](http://travis-ci.org/epeli/underscore.string) #
+# Underscore.string [![Build Status](https://travis-ci.org/spacejamio/underscore.string.svg?branch=meteor)](https://travis-ci.org/spacejamio/underscore.string) #
 
 
 
