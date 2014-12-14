@@ -1,4 +1,4 @@
-# Underscore.string [![Build Status](https://travis-ci.org/practicalmeteor/underscore.string.svg?branch=meteor)](https://travis-ci.org/practicalmeteor/underscore.string) #
+# Underscore.string [![Build Status](https://travis-ci.org/practicalmeteor/meteor-underscore.string.svg?branch=meteor)](https://travis-ci.org/practicalmeteor/meteor-underscore.string) #
 
 
 
