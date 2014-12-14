@@ -4,7 +4,6 @@ rvm:
 
 before_install:
   - "curl https://install.meteor.com | /bin/sh"
-  - "npm install -g coffee-script"
   - "npm install -g spacejam"
 
 before_script:
