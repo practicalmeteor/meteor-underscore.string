@@ -3,3 +3,4 @@
 .project
 .tmp_*
 .build*
+versions.json
