@@ -18,7 +18,7 @@ Package.onUse(function (api) {
 
 
 Package.onTest(function(api) {
-  api.use(['spacejamio:underscore.string', 'tinytest']);
+  api.use(['practicalmeteor:underscore.string', 'tinytest']);
 
   api.addFiles('tests/tinytests.js');
 });
