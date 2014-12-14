@@ -1,8 +1,8 @@
 Package.describe({
   name: "practicalmeteor:underscore.string",
   summary: "String manipulation extensions for underscore.",
-  version: "2.3.3_2",
-  git: "https://github.com/spacejamio/underscore.string.git"
+  version: "2.3.3_3",
+  git: "https://github.com/practicalmeteor/meteor-underscore.string.git"
 });
 
 
