@@ -1,4 +1,4 @@
-# Underscore.string [![Build Status](https://travis-ci.org/spacejamio/underscore.string.svg?branch=meteor)](https://travis-ci.org/spacejamio/underscore.string) #
+# Underscore.string [![Build Status](https://travis-ci.org/practicalmeteor/underscore.string.svg?branch=meteor)](https://travis-ci.org/practicalmeteor/underscore.string) #
 
 
 
@@ -18,6 +18,13 @@ use Object-Oriented style and chaining:
 ```javascript
 _("   epeli  ").chain().trim().capitalize().value()
 => "Epeli"
+```
+
+## meteor installation ##
+
+```bash
+
+meteor add practicalmeteor:underscore.string
 ```
 
 ## Download ##
