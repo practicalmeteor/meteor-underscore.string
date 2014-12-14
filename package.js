@@ -1,6 +1,6 @@
 Package.describe({
-  name: "practicalmeteor:underscore.string",
-  summary: "String manipulation extensions for underscore.",
+  name: "spacejamio:underscore.string",
+  summary: "This package has been renamed to practicalmeteor:underscore.string. Please use the new name instead.",
   version: "2.3.3_3",
   git: "https://github.com/practicalmeteor/meteor-underscore.string.git"
 });
@@ -18,7 +18,7 @@ Package.onUse(function (api) {
 
 
 Package.onTest(function(api) {
-  api.use(['practicalmeteor:underscore.string', 'tinytest']);
+  api.use(['spacejamio:underscore.string', 'tinytest']);
 
   api.addFiles('tests/tinytests.js');
 });
